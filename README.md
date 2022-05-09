@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ponurak
+- 👋 Hi, I’m @Alan_Ziemczak
 - 🌱 I’m currently learning - Python and SQL
 
 
