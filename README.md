@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Alan_Ziemczak
-- 🌱 I’m currently learning - Python and SQL
+- 🌱 I’m currently learning - <b>Python</b> and <b>SQL</b>
+
 
 
 <!---
